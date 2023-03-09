@@ -1,0 +1,5 @@
+data/ejemplo.txt
+data/ejemplo2.txt
+data/chess.txt
+data/mushroom.txt
+data/pumsb.txt

@@ -1,0 +1,5 @@
+NombreArchivo-F.size()-MSCExhaustivo-MSCExhaustivoOp-MSCGreedy-MSCGreedyOp
+data/ejemplogrande.txt-673-0-0-0,936806-0,011601-0,113691-6,445149
+data/ejemplo.txt-8-0,000893-0,000398-0,000016-0,000030
+data/ejemplo2.txt-20-0-1,050681-0,000157-0,000074
+data/ej.txt-18-2,363467-0,694619-0,000059-0,000085
